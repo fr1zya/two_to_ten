@@ -11,3 +11,7 @@ make windows:
 
 
 ![image](https://github.com/user-attachments/assets/c3835ec2-89a5-4d2b-866d-73858e22b3d2)
+
+two-to-ten.exe
+
+![image](https://github.com/user-attachments/assets/fe08f009-7bd6-4350-9de4-8ff9f1cc5609)
